@@ -5,7 +5,7 @@ from telegram.ext.commandhandler import CommandHandler
 from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 
-updater = Updater("5898758858:AAEDHrkMZqZYHrpStJw2BQBdzFMdgOkHtF0",
+updater = Updater("5737467887:AAGJNk6eYzh_nyQ4wqqD96ei3CHxmJyUsGA",
                   use_context=True)
   
   
