@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hana1052
-- 👀 I’m interested in learning 
+- 👀 I’m interested in learning everything 
 - 🌱 I’m currently learning c++
 - 📫 How to reach me roronoazoro1052@gmail.com
 
